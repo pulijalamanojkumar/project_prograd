@@ -1,5 +1,12 @@
 # prograd_project
 
+
+To run the project:
+
+i) Install the dependencies by using: npm install
+ii) Run the code by using: npm start
+
+
 -> This is the starting page of the website
 
 ![Home_Page_start](https://user-images.githubusercontent.com/98957562/201898700-8f9d8d7b-11da-4388-ab36-eca9b6a5670d.JPG)
